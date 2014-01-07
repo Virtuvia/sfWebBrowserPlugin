@@ -1,0 +1,14 @@
+{
+    "name": "virtuvia/sf-web-browser-plugin",
+    "type": "symfony1-plugin",
+    "description": "The sfWebBrowserPlugin proposes an HTTP client capable of making web requests. The interface is similar to that of sfTestBrowser.",
+    "authors": [
+        {
+            "name": "Francois Zaninotto",
+            "email": "francois.zaninotto@symfony-project.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
